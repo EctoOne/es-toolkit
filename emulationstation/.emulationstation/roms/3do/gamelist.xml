@@ -1,0 +1,374 @@
+<?xml version="1.0"?>
+<gameList>
+	<folder>
+		<path>./SubFolder</path>
+		<name>>Sub Folder</name>
+		<desc>A Folder With More Games</desc>
+		<image>./../_media/folder.png</image>
+		<rating>0</rating>
+	</folder>
+	<game>
+		<path>./SubFolder/subgame01.rom</path>
+		<name>Sub Game 01</name>
+		<desc>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</desc>
+		<marquee>./../_media/marquee.png</marquee>
+		<image>./../_media/portrait.jpg</image>
+		<video>./../_media/video.mp4</video>
+		<rating>0.7</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>DEVELOPER</developer>
+		<publisher>PUBLISHER</publisher>
+		<genre>GENRE</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./game01.rom</path>
+		<name>1. 3DO supports Videoview</name>
+		<desc>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</desc>
+		<marquee>./../_media/marquee.png</marquee>
+		<image>./../_media/portrait.jpg</image>
+		<video>./../_media/video.mp4</video>
+		<rating>0.7</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>DEVELOPER</developer>
+		<publisher>PUBLISHER</publisher>
+		<genre>GENRE</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./game02.rom</path>
+		<name>2. Amiga has Square Images (DetailedView)</name>
+		<desc>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</desc>
+		<marquee>./../_media/marquee.png</marquee>
+		<image>./../_media/portrait.jpg</image>
+		<video>./../_media/video.mp4</video>
+		<rating>0.7</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>DEVELOPER</developer>
+		<publisher>PUBLISHER</publisher>
+		<genre>GENRE</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./game03.rom</path>
+		<name>3. Atari 2600 has Landscape Images (DetailedView)</name>
+		<desc>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</desc>
+		<marquee>./../_media/marquee.png</marquee>
+		<image>./../_media/portrait.jpg</image>
+		<video>./../_media/video.mp4</video>
+		<rating>0.7</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>DEVELOPER</developer>
+		<publisher>PUBLISHER</publisher>
+		<genre>GENRE</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./game04.rom</path>
+		<name>3. Atari ST has Portrait Images (DetailedView)</name>
+		<desc>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</desc>
+		<marquee>./../_media/marquee.png</marquee>
+		<image>./../_media/portrait.jpg</image>
+		<video>./../_media/video.mp4</video>
+		<rating>0.7</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>DEVELOPER</developer>
+		<publisher>PUBLISHER</publisher>
+		<genre>GENRE</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./game05.rom</path>
+		<name>4. All other gamelists are empty (BasicView)</name>
+		<desc>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</desc>
+		<marquee>./../_media/marquee.png</marquee>
+		<image>./../_media/portrait.jpg</image>
+		<video>./../_media/video.mp4</video>
+		<rating>0.7</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>DEVELOPER</developer>
+		<publisher>PUBLISHER</publisher>
+		<genre>GENRE</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./game06.rom</path>
+		<name>5. This is just a veeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeery long Gamename</name>
+		<desc>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</desc>
+		<marquee>./../_media/marquee.png</marquee>
+		<image>./../_media/portrait.jpg</image>
+		<video>./../_media/video.mp4</video>
+		<rating>0.7</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>DEVELOPER</developer>
+		<publisher>PUBLISHER</publisher>
+		<genre>GENRE</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./game07.rom</path>
+		<name>xGame 07</name>
+		<desc>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</desc>
+		<marquee>./../_media/marquee.png</marquee>
+		<image>./../_media/portrait.jpg</image>
+		<video>./../_media/video.mp4</video>
+		<rating>0.7</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>DEVELOPER</developer>
+		<publisher>PUBLISHER</publisher>
+		<genre>GENRE</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./game08.rom</path>
+		<name>xGame 08</name>
+		<desc>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</desc>
+		<marquee>./../_media/marquee.png</marquee>
+		<image>./../_media/portrait.jpg</image>
+		<video>./../_media/video.mp4</video>
+		<rating>0.7</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>DEVELOPER</developer>
+		<publisher>PUBLISHER</publisher>
+		<genre>GENRE</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./game09.rom</path>
+		<name>xGame 09</name>
+		<desc>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</desc>
+		<marquee>./../_media/marquee.png</marquee>
+		<image>./../_media/portrait.jpg</image>
+		<video>./../_media/video.mp4</video>
+		<rating>0.7</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>DEVELOPER</developer>
+		<publisher>PUBLISHER</publisher>
+		<genre>GENRE</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./game10.rom</path>
+		<name>xGame 10</name>
+		<desc>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</desc>
+		<marquee>./../_media/marquee.png</marquee>
+		<image>./../_media/portrait.jpg</image>
+		<video>./../_media/video.mp4</video>
+		<rating>0.7</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>DEVELOPER</developer>
+		<publisher>PUBLISHER</publisher>
+		<genre>GENRE</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./game11.rom</path>
+		<name>xGame 11</name>
+		<desc>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</desc>
+		<marquee>./../_media/marquee.png</marquee>
+		<image>./../_media/portrait.jpg</image>
+		<video>./../_media/video.mp4</video>
+		<rating>0.7</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>DEVELOPER</developer>
+		<publisher>PUBLISHER</publisher>
+		<genre>GENRE</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./game12.rom</path>
+		<name>xGame 12</name>
+		<desc>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</desc>
+		<marquee>./../_media/marquee.png</marquee>
+		<image>./../_media/portrait.jpg</image>
+		<video>./../_media/video.mp4</video>
+		<rating>0.7</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>DEVELOPER</developer>
+		<publisher>PUBLISHER</publisher>
+		<genre>GENRE</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./game13.rom</path>
+		<name>xGame 13</name>
+		<desc>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</desc>
+		<marquee>./../_media/marquee.png</marquee>
+		<image>./../_media/portrait.jpg</image>
+		<video>./../_media/video.mp4</video>
+		<rating>0.7</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>DEVELOPER</developer>
+		<publisher>PUBLISHER</publisher>
+		<genre>GENRE</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./game14.rom</path>
+		<name>xGame 14</name>
+		<desc>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</desc>
+		<marquee>./../_media/marquee.png</marquee>
+		<image>./../_media/portrait.jpg</image>
+		<video>./../_media/video.mp4</video>
+		<rating>0.7</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>DEVELOPER</developer>
+		<publisher>PUBLISHER</publisher>
+		<genre>GENRE</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./game15.rom</path>
+		<name>xGame 15</name>
+		<desc>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</desc>
+		<marquee>./../_media/marquee.png</marquee>
+		<image>./../_media/portrait.jpg</image>
+		<video>./../_media/video.mp4</video>
+		<rating>0.7</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>DEVELOPER</developer>
+		<publisher>PUBLISHER</publisher>
+		<genre>GENRE</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./game16.rom</path>
+		<name>xGame 16</name>
+		<desc>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</desc>
+		<marquee>./../_media/marquee.png</marquee>
+		<image>./../_media/portrait.jpg</image>
+		<video>./../_media/video.mp4</video>
+		<rating>0.7</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>DEVELOPER</developer>
+		<publisher>PUBLISHER</publisher>
+		<genre>GENRE</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./game17.rom</path>
+		<name>xGame 17</name>
+		<desc>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</desc>
+		<marquee>./../_media/marquee.png</marquee>
+		<image>./../_media/portrait.jpg</image>
+		<video>./../_media/video.mp4</video>
+		<rating>0.7</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>DEVELOPER</developer>
+		<publisher>PUBLISHER</publisher>
+		<genre>GENRE</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./game18.rom</path>
+		<name>xGame 18</name>
+		<desc>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</desc>
+		<marquee>./../_media/marquee.png</marquee>
+		<image>./../_media/portrait.jpg</image>
+		<video>./../_media/video.mp4</video>
+		<rating>0.7</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>DEVELOPER</developer>
+		<publisher>PUBLISHER</publisher>
+		<genre>GENRE</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./game19.rom</path>
+		<name>xGame 19</name>
+		<desc>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</desc>
+		<marquee>./../_media/marquee.png</marquee>
+		<image>./../_media/portrait.jpg</image>
+		<video>./../_media/video.mp4</video>
+		<rating>0.7</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>DEVELOPER</developer>
+		<publisher>PUBLISHER</publisher>
+		<genre>GENRE</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./game20.rom</path>
+		<name>xGame 20</name>
+		<desc>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</desc>
+		<marquee>./../_media/marquee.png</marquee>
+		<image>./../_media/portrait.jpg</image>
+		<video>./../_media/video.mp4</video>
+		<rating>0.7</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>DEVELOPER</developer>
+		<publisher>PUBLISHER</publisher>
+		<genre>GENRE</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./game21.rom</path>
+		<name>xGame 21</name>
+		<desc>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</desc>
+		<marquee>./../_media/marquee.png</marquee>
+		<image>./../_media/portrait.jpg</image>
+		<video>./../_media/video.mp4</video>
+		<rating>0.7</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>DEVELOPER</developer>
+		<publisher>PUBLISHER</publisher>
+		<genre>GENRE</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./game22.rom</path>
+		<name>xGame 22</name>
+		<desc>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</desc>
+		<marquee>./../_media/marquee.png</marquee>
+		<image>./../_media/portrait.jpg</image>
+		<video>./../_media/video.mp4</video>
+		<rating>0.7</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>DEVELOPER</developer>
+		<publisher>PUBLISHER</publisher>
+		<genre>GENRE</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./game23.rom</path>
+		<name>xGame 23</name>
+		<desc>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</desc>
+		<marquee>./../_media/marquee.png</marquee>
+		<image>./../_media/portrait.jpg</image>
+		<video>./../_media/video.mp4</video>
+		<rating>0.7</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>DEVELOPER</developer>
+		<publisher>PUBLISHER</publisher>
+		<genre>GENRE</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./game24.rom</path>
+		<name>xGame 24</name>
+		<desc>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</desc>
+		<marquee>./../_media/marquee.png</marquee>
+		<image>./../_media/portrait.jpg</image>
+		<video>./../_media/video.mp4</video>
+		<rating>0.7</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>DEVELOPER</developer>
+		<publisher>PUBLISHER</publisher>
+		<genre>GENRE</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./game25.rom</path>
+		<name>xGame 25</name>
+		<desc>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</desc>
+		<marquee>./../_media/marquee.png</marquee>
+		<image>./../_media/portrait.jpg</image>
+		<video>./../_media/video.mp4</video>
+		<rating>0.7</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>DEVELOPER</developer>
+		<publisher>PUBLISHER</publisher>
+		<genre>GENRE</genre>
+		<players>2</players>
+	</game>
+</gameList>
